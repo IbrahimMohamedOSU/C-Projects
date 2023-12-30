@@ -1,0 +1,11 @@
+{0.500,1.200,5.300,3.900,4.000}
+my_max: 5.300000
+my_min: 0.500000
+my_sum: 14.900000
+array normalization:
+enter array_normalize()
+{0.034,0.081,0.356,0.262,0.268}
+my_sum after normalization: 1.000000
+array rescaling:
+enter array_rescale():
+{0.000,0.146,1.000,0.708,0.729}
