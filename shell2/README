@@ -1,0 +1,11 @@
+Name: Ibrahim Mohamed
+Lab 3
+Date: 6/23/2023
+
+Instructions:
+1) run 'make' in the lab3 directory to compile the code.
+2) Then run './shell' to run the code.
+3) After executing one or more commands, run Control+C to bring up
+command history.
+4) Follow the instructions below the command history to run a specific 
+or most recent command.

@@ -1,0 +1,8 @@
+Name: Ibrahim Mohamed
+Lab 4
+Date: 7/10/2023
+
+Instructions:
+1) run 'make' in the lab4 directory to compile the code.
+2) To run the code, run 'matrix n' where n is any number from 1-5.
+It represents the number of threads you want to run.

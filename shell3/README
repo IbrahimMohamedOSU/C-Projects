@@ -1,0 +1,13 @@
+Name: Ibrahim Mohamed
+Lab 5
+Date: 7/20/2023
+
+Instructions:
+1) run 'make' in the lab5 directory to compile the code.
+2) Then run './shell' to run the code.
+3) After executing one or more commands, run Control+C to bring up
+command history.
+4) During the execution of the program or after its exit, all of the 
+command history for that run will be present in the 'mohamed511.history' file.
+5) To terminate the process, use Control+\ or Control+Z since Control+C will 
+only bring up the command history.
